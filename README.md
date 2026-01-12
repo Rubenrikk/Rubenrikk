@@ -1,5 +1,5 @@
 # 💫 About Me:
-# Hi, ik ben Ruben Rikkerink (rubenrikk) 👋<br><br>Ik ben een lerende developer die stap voor stap serieuzer met softwareontwikkeling bezig is.  <br>Op dit moment werk ik vooral aan:<br><br>- Een app voor het bijhouden van ledenpresentie voor een sportvereniging  <br>- Websites en backends op basis van Node.js<br><br>Ik experimenteer graag met moderne tools en AI‑assistenten om mijn workflow en code continu te verbeteren.
+Hi, ik ben Ruben Rikkerink (Rubenrikk) 👋<br><br>Ik ben een lerende developer die stap voor stap serieuzer met softwareontwikkeling bezig is.  <br>Op dit moment werk ik vooral aan:<br><br>- Een app voor het bijhouden van ledenpresentie voor een sportvereniging  <br>- Websites en backends op basis van Node.js<br><br>Ik experimenteer graag met moderne tools en AI‑assistenten om mijn workflow en code continu te verbeteren.
 
 
 ## 🌐 Socials:
